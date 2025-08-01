@@ -30,10 +30,10 @@ Una vez que tengas los archivos, ¡la personalización está en tus manos! Abre 
 
 ---
 
-## ☕ Apoya este Proyecto
+[## ☕ Apoya este Proyecto
 
 Si esta plantilla te ha sido útil y quieres apoyar mi trabajo para seguir creando recursos gratuitos, ¡te lo agradecería mucho! Puedes invitarme a un café en Ko-fi:
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/igs92)
 
-¡Gracias por tu apoyo!
+¡Gracias por tu apoyo!](https://ko-fi.com/igs92)
