@@ -1,4 +1,4 @@
-# 🧺 Plantilla de Landing Page para Lavanderías
+# 🧺 Landing Page para Lavanderías
 
 **Landing page moderna y funcional** diseñada especialmente para negocios de lavandería, ya sean autoservicio o con servicio a domicilio. Utilízala para destacar tus servicios, horarios, precios, información de contacto y ¡mucho más!
 
